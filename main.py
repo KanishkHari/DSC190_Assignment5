@@ -1,5 +1,8 @@
 def hello():
-  """Say Hello"""
-  print("Hello")
+    """Say Hello"""
+    print("Hello")
 
-  hello()
+
+x = 1 + 2
+
+hello()
